@@ -3,6 +3,6 @@
 ### 1.- Invitación de Halloween.
 - interactiva y con sonidos.
 - 
-![halloween](zVarios/Imagenes/invitacion_halloween.png)
+![halloween](C:/Users/Natalia/Lenguaje_de_Marcas/zVarios/Imagenes/invitacion_halloween.png)
 
 ### 2.- 
