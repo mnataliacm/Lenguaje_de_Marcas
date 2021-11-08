@@ -3,5 +3,6 @@
 ###1.- Invitación de Halloween.
 - interactiva y con sonidos.
 
-<img src="./zVarios/Imagenes/invitacion_halloween.png" alt="halloween" width="100"/>
+![imagen](zVarios/Imagenes/invitacion_halloween.png)
+
 ###2.- 
